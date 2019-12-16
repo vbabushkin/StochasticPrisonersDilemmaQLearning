@@ -8,12 +8,12 @@ To reach their goals, the players must pass through one of four gates (Gates A-D
 
 We expect players to eventually converge to one of four solutions, which we list in descending collaborative order:
 1. Both B – Both players use Gate B, resulting in each receiving 16 points.
-2. Alt A-B – The players take turns going through Gate A, which results in an average payo↵ of 11 points to each player.
+2. Alt A-B – The players take turns going through Gate A, which results in an average payoff of 11 points to each player.
 3. Both A – Both players attempt to go through Gate A, thus requiring each player to pass through Gate C. This gives both players 7 points.
 4. Bully – One of the players always goes through Gate A, leaving the other to go through Gate D. This gives the players 22 and 0 points, respectively
 
 <img src="https://github.com/vbabushkin/StochasticPrisonersDilemmaQLearningNetBeans/blob/master/pdPicture.png" width="300">
-*Text and figure are replicated from [3], p. 313*
+<p><em>Text and figure are replicated from [3], p. 313</em></p>
 
 ### References
 [1] M. A. Goodrich, J. W. Crandall, and J. R. Stimpson. Neglect tolerant teaming: Issues and dilemmas. In AAAI Spring Symposium on Human Interaction with Autonomous Systems in Complex Environments, 2003.
